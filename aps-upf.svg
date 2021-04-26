@@ -1,0 +1,47 @@
+<svg xmlns='http://www.w3.org/2000/svg' class="pikchr" viewBox="0 0 624.96 460.8">
+<polygon points="6,404 18,400 18,408" style="fill:rgb(0,0,0)"/>
+<polygon points="78,404 66,408 66,400" style="fill:rgb(0,0,0)"/>
+<path d="M12,404L72,404"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="42" y="392" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">GTP</text>
+<path d="M78,422L186,422L186,386L78,386Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="132" y="404" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">udp_tunnel</text>
+<polygon points="186,404 198,400 198,408" style="fill:rgb(0,0,0)"/>
+<polygon points="258,404 246,408 246,400" style="fill:rgb(0,0,0)"/>
+<path d="M192,404L252,404"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="222" y="392" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">IP</text>
+<path d="M258,458L366,458L366,350L258,350Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="404" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">gtp5g</text>
+<path d="M222,242L402,242L402,212L222,212Z"  style="fill:rgb(0,128,192);stroke-width:2.16;stroke:rgb(255,255,255);" />
+<text x="312" y="227" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">vishvananda/netlink</text>
+<polygon points="312,212 308,200 316,200" style="fill:rgb(0,0,0)"/>
+<path d="M312,206L312,176"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M243,176L381,176L381,146L243,146Z"  style="fill:rgb(0,128,192);stroke-width:2.16;stroke:rgb(255,255,255);" />
+<text x="312" y="161" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">wmnsk/go-pfcp</text>
+<polygon points="312,146 308,134 316,134" style="fill:rgb(0,0,0)"/>
+<polygon points="312,74 316,85 308,85" style="fill:rgb(0,0,0)"/>
+<path d="M312,140L312,79"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="110" text-anchor="start" fill="rgb(0,0,0)" dominant-baseline="central"> PFCP</text>
+<path d="M258,74L366,74L366,2L258,2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="38" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">smf</text>
+<path d="M204,260L420,260L420,128L204,128Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,128,192);" />
+<text x="204" y="118" text-anchor="start" fill="rgb(0,128,192)" dominant-baseline="central">go-upfd</text>
+<polygon points="366,377 378,373 378,381" style="fill:rgb(0,0,0)"/>
+<polygon points="618,377 606,381 606,373" style="fill:rgb(0,0,0)"/>
+<path d="M372,377L612,377"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="492" y="365" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">IP</text>
+<polygon points="366,431 378,427 378,435" style="fill:rgb(0,0,0)"/>
+<polygon points="438,431 426,435 426,427" style="fill:rgb(0,0,0)"/>
+<path d="M372,431L432,431"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="402" y="419" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">IP</text>
+<path d="M438,449L546,449L546,413L438,413Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="492" y="431" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">udp_tunnel</text>
+<polygon points="546,431 558,427 558,435" style="fill:rgb(0,0,0)"/>
+<polygon points="618,431 606,435 606,427" style="fill:rgb(0,0,0)"/>
+<path d="M552,431L612,431"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="582" y="419" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">GTP</text>
+<polygon points="294,350 290,339 298,339" style="fill:rgb(0,0,0)"/>
+<polygon points="294,242 298,254 290,254" style="fill:rgb(0,0,0)"/>
+<path d="M294,344L294,248"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="294" y="296" text-anchor="end" fill="rgb(0,0,0)" dominant-baseline="central">netlink </text>
+</svg>
+

@@ -1,0 +1,22 @@
+	arrow <-> "GTP" above
+	box ht 50% "udp_tunnel"
+	arrow <-> "IP" above
+Gtp5g:	box ht 150% "gtp5g"
+	move ht 150% up from Gtp5g.n
+Upfd:	[
+		box ht 50% fill 0x0080c0 color white "vishvananda/netlink" fit
+		arrow ht 50% <-
+		box ht 50% fill 0x0080c0 color white "wmnsk/go-pfcp" fit
+	]
+	arrow <-> " PFCP" ljust
+Smf:	box "smf"
+
+Upfd1:	box wid Upfd.wid+0.25 ht Upfd.ht+0.25 color 0x0080c0 at Upfd.c
+	text color 0x0080c0 "go-upfd" above ljust at Upfd1.nw
+
+	arrow wid 350% <-> right "IP" above from 1/4 <Gtp5g.ne, Gtp5g.se>
+	arrow <-> right "IP" above from 3/4 <Gtp5g.ne, Gtp5g.se>
+	box ht 50% "udp_tunnel"
+	arrow <-> "GTP" above
+
+	arrow ht 150% <-> up "netlink " rjust from 1/3 <Gtp5g.nw, Gtp5g.ne>

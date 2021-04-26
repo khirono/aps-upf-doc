@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>APRESIAが考えるUPF</title>
+<style>
+@media print{
+  section {
+    size: A4 landscape;
+    page-break-before: always;
+  }
+}
+h1 {
+  font-size: 32pt;
+}
+ol {
+  font-size: 20pt;
+}
+img {
+  max-height: 80vh;
+  max-width: 80vw;
+}
+</style>
+  </head>
+  <body>
+    <section>
+      <h1>現在の実装</h1>
+      <img src="free5gc-upf.svg">
+      <ol>
+        <li>upfdだけCで実装されておりレガシーな作り</li>
+        <li>BARのUnix domain socketが性能のボトルネック</li>
+      </ol>
+    </section>
+    <section>
+      <h1>APRESIAが考えるUPF</h1>
+      <img src="aps-upf.svg">
+      <ol>
+        <li>upfdをGoベースにする</li>
+        <li>Unix domain socketをやめてカーネルモジュール内で完結させる</li>
+      </ol>
+    </section>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<svg xmlns='http://www.w3.org/2000/svg' class="pikchr" viewBox="0 0 624.96 472.32">
+<polygon points="6,416 18,411 18,420" style="fill:rgb(0,0,0)"/>
+<polygon points="78,416 66,420 66,411" style="fill:rgb(0,0,0)"/>
+<path d="M12,416L72,416"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="42" y="404" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">GTP</text>
+<path d="M78,434L186,434L186,398L78,398Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="132" y="416" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">udp_tunnel</text>
+<polygon points="186,416 198,411 198,420" style="fill:rgb(0,0,0)"/>
+<polygon points="258,416 246,420 246,411" style="fill:rgb(0,0,0)"/>
+<path d="M192,416L252,416"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="222" y="404" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">IP</text>
+<path d="M258,470L366,470L366,362L258,362Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="416" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">gtp5g</text>
+<path d="M258,254L366,254L366,218L258,218Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="236" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">libgtp5gnl</text>
+<polygon points="312,218 308,206 316,206" style="fill:rgb(0,0,0)"/>
+<path d="M312,212L312,182"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M258,182L366,182L366,146L258,146Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="164" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">pfcp</text>
+<polygon points="312,146 308,134 316,134" style="fill:rgb(0,0,0)"/>
+<polygon points="312,74 316,85 308,85" style="fill:rgb(0,0,0)"/>
+<path d="M312,140L312,79"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="110" text-anchor="start" fill="rgb(0,0,0)" dominant-baseline="central"> PFCP</text>
+<path d="M258,74L366,74L366,2L258,2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="312" y="38" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">smf</text>
+<path d="M240,272L384,272L384,128L240,128Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="240" y="118" text-anchor="start" fill="rgb(0,0,0)" dominant-baseline="central">upfd</text>
+<polygon points="366,389 378,384 378,393" style="fill:rgb(0,0,0)"/>
+<polygon points="618,389 606,393 606,384" style="fill:rgb(0,0,0)"/>
+<path d="M372,389L612,389"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="492" y="377" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">IP</text>
+<polygon points="366,443 378,438 378,447" style="fill:rgb(0,0,0)"/>
+<polygon points="438,443 426,447 426,438" style="fill:rgb(0,0,0)"/>
+<path d="M372,443L432,443"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="402" y="431" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">IP</text>
+<path d="M438,461L546,461L546,425L438,425Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="492" y="443" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">udp_tunnel</text>
+<polygon points="546,443 558,438 558,447" style="fill:rgb(0,0,0)"/>
+<polygon points="618,443 606,447 606,438" style="fill:rgb(0,0,0)"/>
+<path d="M552,443L612,443"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="582" y="431" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">GTP</text>
+<polygon points="294,362 290,350 298,350" style="fill:rgb(0,0,0)"/>
+<path d="M294,356L294,254"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="294" y="308" text-anchor="end" fill="rgb(0,0,0)" dominant-baseline="central">netlink </text>
+<polygon points="348,272 343,283 337,277" style="fill:rgb(255,0,0)"/>
+<path d="M330,362 L 330,326 Q 330,290 337,283 L 344,276"  style="fill:none;stroke-width:2.16;stroke:rgb(255,0,0);stroke-dasharray:7.2,7.2;" />
+<text x="339" y="305" text-anchor="start" fill="rgb(255,0,0)" dominant-baseline="central"> Unix domain</text>
+<text x="339" y="328" text-anchor="start" fill="rgb(255,0,0)" dominant-baseline="central"> socket</text>
+</svg>
+
